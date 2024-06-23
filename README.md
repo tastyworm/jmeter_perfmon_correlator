@@ -28,7 +28,7 @@ This is a very simple utility built in Python with the Streamlit framework that 
 - Poetry (installed using ```pip install poetry```)
 
 ### Installation ###
-1. From the root folder of this repository and type 'poetry update'
+1. From the root folder of this repository type 'poetry update'
 
 ### How to start the application ###
 1. Start the application by running ```streamlit run main.py```
