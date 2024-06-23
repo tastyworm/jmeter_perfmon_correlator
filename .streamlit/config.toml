@@ -1,0 +1,13 @@
+[theme]
+base="dark"
+primaryColor="#927e7e"
+
+[client]
+toolbarMode = "minimal"
+
+[server]
+port = 8501
+maxUploadSize = 2000
+
+[browser]
+gatherUsageStats = false
